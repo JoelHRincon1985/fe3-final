@@ -1,17 +1,3 @@
-/*import React from 'react'
-
-const Footer = () => {
-  return (
-    <footer>
-        <p>Powered by</p>
-        <img src="./img/DH.png" alt='DH-logo' />
-    </footer>
-  )
-}
-
-export default Footer
-*/
-
 import React from "react";
 import logo from "../assets/images/DH1.png"
 import face from "../assets/images/ico-facebook1.png"
